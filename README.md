@@ -11,14 +11,15 @@ myportfilio/
 │       └── pages.yml
 ├── assets/
 │   ├── Dhia-Mosbah-CV-EN.pdf
-│   └── Dhia-Mosbah-CV-FR.pdf
+│   ├── Dhia-Mosbah-CV-FR.pdf
+│   └── Dhia-Mosbah-Portrait.jpg
 ├── index.html
 ├── script.js
 ├── styles.css
 └── README.md
 ```
 
-The hero uses a CSS-built technical identity graphic. The English and French CV PDFs are bundled in `assets/` and linked as direct downloads.
+The hero uses the supplied portrait stored in `assets/`. The English and French CV PDFs are bundled there and linked as direct downloads.
 
 ## Local preview
 
